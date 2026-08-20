@@ -8,6 +8,8 @@ the potentiometer connected to pi 6 and cap connected to pin 5 are the timing ca
 
 A 12-0-12 transformer steps up the inverter’s output from 12V to 220V AC, suitable for the voltage requirements of single-phase AC motors. Powered by a 12V lead-acid battery.ESP32 is connected to pin 9 (compensation pin) of the IC to control the duty cycle by sending a filtered DC signal using a RC filter.
 
+frequency equation : <img width="280" height="125" alt="image" src="https://github.com/user-attachments/assets/05ea595c-910b-46be-a338-3880ee418a11" />
+
 IC diagram: <img width="946" height="447" alt="image" src="https://github.com/user-attachments/assets/70c5b116-4446-4216-8102-3685aeb7f262" />
 
 schematic : <img width="962" height="429" alt="image" src="https://github.com/user-attachments/assets/d0bebbde-a86d-4832-b8e7-8a7d24a52f12" />
