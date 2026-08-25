@@ -22,8 +22,4 @@ schematic :
 
 <img width="962" height="429" alt="image" src="https://github.com/user-attachments/assets/d0bebbde-a86d-4832-b8e7-8a7d24a52f12" />
 
-PROJECT:
 
-<img width="975" height="1235" alt="image" src="https://github.com/user-attachments/assets/32b68f85-8800-4b27-b793-5936104f6b92" />
-
-<img width="975" height="1235" alt="image" src="https://github.com/user-attachments/assets/32b68f85-8800-4b27-b793-5936104f6b92" />
